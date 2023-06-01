@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with
+[`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
+that includes [twin.macro](https://github.com/ben-rogerson/twin.macro) and
+[styled components](https://github.com/styled-components/styled-components).
 
 ## Getting Started
 
